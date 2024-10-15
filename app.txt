@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 마스터에서 변경
+=======
+쿠폰에서 변경
+>>>>>>> coupon
 bbbbb
 ccccccc
 sdfsdf
